@@ -1,0 +1,227 @@
+[
+  {
+    "banner": [
+      "http://106.52.115.235/qunaer/images/homebanner/a.jpg",
+      "http://106.52.115.235/qunaer/images/homebanner/b.jpg",
+      "http://106.52.115.235/qunaer/images/homebanner/c.jpg",
+      "http://106.52.115.235/qunaer/images/homebanner/d.jpg",
+      "http://106.52.115.235/qunaer/images/homebanner/e.jpg",
+      "http://106.52.115.235/qunaer/images/homebanner/f.jpg",
+      "http://106.52.115.235/qunaer/images/homebanner/g.jpg",
+      "http://106.52.115.235/qunaer/images/homebanner/h.jpg",
+      "http://106.52.115.235/qunaer/images/homebanner/i.jpg",
+      "http://106.52.115.235/qunaer/images/homebanner/j.jpg"
+    ]
+  },
+  {
+    "item": [
+      {
+        "title": "景点门票",
+        "url": "http://106.52.115.235/qunaer/images/homeItem/a.png"
+      },
+      {
+        "title": "故宫",
+        "url": "http://106.52.115.235/qunaer/images/homeItem/b.png"
+      },
+      {
+        "title": "北京必游",
+        "url": "http://106.52.115.235/qunaer/images/homeItem/c.png"
+      },
+      {
+        "title": "水上乐园",
+        "url": "http://106.52.115.235/qunaer/images/homeItem/d.png"
+      },
+      {
+        "title": "爬长城",
+        "url": "http://106.52.115.235/qunaer/images/homeItem/e.png"
+      },
+      {
+        "title": "古北水镇",
+        "url": "http://106.52.115.235/qunaer/images/homeItem/f.png"
+      },
+      {
+        "title": "动植物园",
+        "url": "http://106.52.115.235/qunaer/images/homeItem/g.png"
+      },
+      {
+        "title": "北京野生动物园",
+        "url": "http://106.52.115.235/qunaer/images/homeItem/h.png"
+      },
+      {
+        "title": "北京世园会",
+        "url": "http://106.52.115.235/qunaer/images/homeItem/i.png"
+      },
+      {
+        "title": "学生专享",
+        "url": "http://106.52.115.235/qunaer/images/homeItem/j.png"
+      }
+    ]
+  },
+  {
+    "love": [
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/a.jpg",
+        "title": "北京欢乐谷",
+        "score": 4.9,
+        "commend": 11000,
+        "price": 150,
+        "address": "朝阳区",
+        "desc": "亚洲唯一飞行式过山车"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/b.jpg",
+        "title": "古北水镇",
+        "score": 4.4,
+        "commend": 9999,
+        "price": 140,
+        "address": "密云县"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/c.jpg",
+        "title": "北京欢乐谷",
+        "score": 4.1,
+        "commend": 9888,
+        "price": 60,
+        "address": "京城区",
+        "desc": "世界五大宫之首，穿越与您近在咫尺"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/d.jpg",
+        "title": "八达岭长城",
+        "score": 4.3,
+        "commend": 40100,
+        "price": 50,
+        "address": "延庆县",
+        "desc": "不到长城非好汉"
+      },
+      {
+        "tip": "可订明日",
+        "url": "http://106.52.115.235/qunaer/images/love/e.jpg",
+        "title": "北京动物园",
+        "score": 4.8,
+        "commend": 8636,
+        "price": 165,
+        "address": "西城区"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/f.jpg",
+        "title": "什刹海",
+        "score": 3.7,
+        "commend": 885,
+        "price": 10,
+        "address": "昌平区"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/g.jpg",
+        "title": "恭王府",
+        "score": 4.8,
+        "commend": 36120,
+        "price": 28,
+        "address": "西城区",
+        "desc": "一座恭王府，半部清代史"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/h.jpg",
+        "title": "北京欢乐水魔方",
+        "score": 4.8,
+        "commend": 4628,
+        "price": 189,
+        "address": "丰台区"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/i.jpg",
+        "title": "北京海洋馆",
+        "score": 4.6,
+        "commend": 6435,
+        "price": 165,
+        "address": "西城区"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/j.jpg",
+        "title": "北京杜莎夫人蜡像馆",
+        "score": 4.8,
+        "commend": 8796,
+        "price": 150,
+        "address": "前门大街",
+        "desc": "听说能遇到杰伦哟"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/k.jpg",
+        "title": "金海湖风景区",
+        "score": 4.6,
+        "commend": 2238,
+        "price": 31.5,
+        "address": "平谷区"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/l.jpg",
+        "title": "世界公园",
+        "score": 4.8,
+        "commend": 60,
+        "price": 69,
+        "address": "丰台区"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/m.jpg",
+        "title": "颐和园",
+        "score": 4.8,
+        "commend": 45620,
+        "price": 38,
+        "address": "海淀区",
+        "desc": "中国现存最大的皇家园林"
+      },
+      {
+        "tip": "随买随用",
+        "url": "http://106.52.115.235/qunaer/images/love/n.jpg",
+        "title": "太平洋海底世界",
+        "score": 4,
+        "commend": 20,
+        "price": 65,
+        "address": "海淀区"
+      }
+    ]
+  },
+  {
+    "where": [
+      {
+        "url": "http://106.52.115.235/qunaer/images/where/a.jpg",
+        "title": "京城周末撒欢",
+        "intro": "在帝都过周末，不仅仅是城中游!"
+      },
+      {
+        "url": "http://106.52.115.235/qunaer/images/where/b.jpg",
+        "title": "京城溜娃必去",
+        "intro": "德智体美劳全面发展的亲子日，这些地方该去看看..."
+      },
+      {
+        "url": "http://106.52.115.235/qunaer/images/where/c.jpg",
+        "title": "帝都必打卡",
+        "intro": "来北京必去的景点非这些地方魔莫属"
+      },
+      {
+        "url": "http://106.52.115.235/qunaer/images/where/d.jpg",
+        "title": "漂流涌进，烧烤露营",
+        "intro": "轻功水上漂，任我乐逍遥"
+      },
+      {
+        "url": "http://106.52.115.235/qunaer/images/where/e.jpg",
+        "title": "清凉避暑圣地",
+        "intro": "到大自然中西欧昂首“天然空调”的清凉"
+      }
+    ]
+  }
+]
+
+
