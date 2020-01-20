@@ -12,6 +12,12 @@ import VueAwesomeSwiper from 'vue-awesome-swiper'
 import 'swiper/dist/css/swiper.css'
 Vue.use(VueAwesomeSwiper);
 
+//全局组件gallary
+import gallary from "./common/gallary/gallary"
+Vue.component("gallary",gallary);
+
+//iconfont
+
 //axios
 import axios from "axios"
 Vue.prototype.$axios=axios;

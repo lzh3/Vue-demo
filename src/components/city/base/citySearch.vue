@@ -5,7 +5,10 @@
         </div>
         <div class="search-content wrapper" v-show="keywords">
             <ul class="search-list">
-                <li class="list-item border-bottom" v-for="(item,index) in searchData" :key="index">{{item}}</li>
+                <li class="list-item border-bottom"
+                    v-for="(item,index) in searchData"
+                    @click="getCity(item)"
+                    :key="index">{{item}}</li>
                 <li class="list-item border-bottom" v-show="!notfound.length">未匹配到数据</li>
             </ul>
         </div>
@@ -22,9 +25,6 @@
                 keywords:"",
                 notfound:[],
             }
-        },
-        created(){
-
         },
         mounted(){
             new BScroll('.wrapper', {
@@ -48,7 +48,10 @@
             }
         },
         methods:{
-
+            getCity(city){
+                this.$store.commit("saveCity",city);
+                this.$router.go(-1);
+            }
         }
     }
 </script>

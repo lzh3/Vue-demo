@@ -2,7 +2,12 @@
     <div class="love">
         <h3><i class="iconfont icon-xihuan"></i><span>猜你喜欢</span></h3>
         <ul class="contentList">
-            <li class="clearfix" v-for="(item,index) in infoArr" :key="index">
+            <router-link
+                    v-for="(item,index) in infoArr"
+                    :to="{name:'detaillink',params:{id:item.id}}"
+                    class="clearfix"
+                    :key="index"
+                    tag="li">
                 <div class="pic">
                     <img :src="item.url" alt="">
                     <p class="tip">
@@ -28,7 +33,7 @@
                 <div class="end">
                     {{item.desc}}
                 </div>
-            </li>
+            </router-link>
         </ul>
         <div class="more border-top">
             <a href="">查看更多</a>
@@ -40,12 +45,6 @@
     export default {
         name: "love",
         props:["infoArr"],
-        data(){
-            return {
-
-            }
-        },
-
         filters:{
             filterPrice(val){
                 return "￥"+val;

@@ -1,0 +1,32 @@
+{
+  "main_pic": "http://106.52.115.235/qunaer/images/love/b.jpg",
+  "pic": ["http://106.52.115.235/qunaer/images/love/b.jpg",
+    "http://106.52.115.235/qunaer/images/love/c.jpg",
+    "http://106.52.115.235/qunaer/images/love/d.jpg",
+    "http://106.52.115.235/qunaer/images/love/e.jpg",
+    "http://106.52.115.235/qunaer/images/love/f.jpg",
+    "http://106.52.115.235/qunaer/images/love/j.jpg"],
+  "title": "古北水镇",
+  "area": "AAAA景区",
+  "commend": "4.9",
+  "num": 230,
+  "gonglue": 10,
+  "date": "8月8日",
+  "price_rec": [140,170,280],
+  "price01": [140,80],
+  "price02": [170,100],
+  "subtitle01": ["成人票","优待票 (儿童/学生/老人)"],
+  "subtitle02": ["成人票","优待票 (儿童/学生/老人)"],
+  "one":["古水北镇1日","古水北镇2日","古水北镇+温泉","【北京出发】张裕爱裴堡+古水北镇1日游"],
+  "one_price": [198,158,298,278]
+
+
+}
+
+
+
+
+
+
+
+

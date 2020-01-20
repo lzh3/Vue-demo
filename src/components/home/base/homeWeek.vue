@@ -2,7 +2,11 @@
     <div class="where">
         <h4>周末去哪儿</h4>
         <ul class="list">
-            <li v-for="(item,index) in infoArr" :key="index">
+            <router-link
+                    tag="li"
+                    :to="{name:'weekend',params:{id:index}}"
+                    v-for="(item,index) in infoArr"
+                    :key="index">
                 <div class="pic">
                     <img :src="item.url" alt="">
                 </div>
@@ -10,7 +14,7 @@
                     <h5>{{item.title}}</h5>
                     <p>{{item.intro}}</p>
                 </div>
-            </li>
+            </router-link>
         </ul>
     </div>
 </template>

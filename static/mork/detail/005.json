@@ -1,0 +1,32 @@
+{
+  "main_pic": "http://106.52.115.235/qunaer/images/love/e.jpg",
+  "pic": ["http://106.52.115.235/qunaer/images/love/a.jpg",
+    "http://106.52.115.235/qunaer/images/love/b.jpg",
+    "http://106.52.115.235/qunaer/images/love/c.jpg",
+    "http://106.52.115.235/qunaer/images/love/f.jpg",
+    "http://106.52.115.235/qunaer/images/love/g.jpg",
+    "http://106.52.115.235/qunaer/images/love/h.jpg",
+    "http://106.52.115.235/qunaer/images/love/b.jpg",
+    "http://106.52.115.235/qunaer/images/love/e.jpg",
+    "http://106.52.115.235/qunaer/images/love/f.jpg"],
+  "title": "北京动物园",
+  "area": "AAAA景区",
+  "commend": "4.8",
+  "num": 752,
+  "gonglue": 9,
+  "date": "明日可订",
+  "price_rec": [175,85,170],
+  "price_stu": [165,85],
+  "price_qx": [86,76],
+  "subtitle01": ["成人票","儿童/学生票"],
+  "subtitle02": ["成人票","学生票"]
+
+}
+
+
+
+
+
+
+
+

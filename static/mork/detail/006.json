@@ -1,0 +1,27 @@
+{
+  "main_pic": "http://106.52.115.235/qunaer/images/love/f.jpg",
+  "pic": ["http://106.52.115.235/qunaer/images/love/e.jpg",
+    "http://106.52.115.235/qunaer/images/love/f.jpg",
+    "http://106.52.115.235/qunaer/images/love/g.jpg",
+    "http://106.52.115.235/qunaer/images/love/b.jpg"],
+  "title": "北京欢乐谷",
+  "area": "AAAA景区",
+  "commend": "4.9",
+  "num": 666,
+  "gonglue": 12,
+  "date": "8月10日",
+  "price_rec": [40,40,48],
+  "price01": [40,48],
+  "price02": [10],
+  "subtitle01": ["成人票","成人票+电子讲解"],
+  "subtitle02": ["北海公园成人票"]
+
+}
+
+
+
+
+
+
+
+

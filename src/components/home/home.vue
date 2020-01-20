@@ -33,8 +33,7 @@
         },
         created(){
             this.$axios.get("/static/mork/data.json").then((res)=>{
-                console.log(res.data);
-                let [ {banner},{item},{love},{where} ]=res.data
+                let [ {banner},{item},{love},{where} ]=res.data;
                 this.homeswiper=banner;
                 this.homekinds=item;
                 this.homelove=love;
